@@ -1,1 +1,1 @@
-# tribune-Django-project
+# Basic codes of Django-Python framework
